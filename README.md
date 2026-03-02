@@ -1,6 +1,6 @@
 <div align="center">
 
-# Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation
+# [CVPR 2026] Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation
 
 <p align="center">
   <a>Chuancheng Shi</a><sup>1*</sup>, 

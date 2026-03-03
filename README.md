@@ -33,5 +33,6 @@
 
 ## Image Showcase Gallery
 
+![](image_gallery.png)
 </div>
 

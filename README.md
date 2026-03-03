@@ -41,4 +41,5 @@
 
 ---
 
-- I'm quite busy due to personal reasons; the code will be coming soon.
+> I'm quite busy due to personal reasons; the code will be coming soon.
+> If you have any questions, you can email me. `cshi0459@uni.sydney.edu.au`

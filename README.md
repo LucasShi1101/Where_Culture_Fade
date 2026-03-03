@@ -1,6 +1,6 @@
 <div align="center">
 
-# [CVPR 2026] Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation
+# Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation
 
 <p align="center">
   <a>Chuancheng Shi</a><sup>1*</sup>, 
@@ -26,6 +26,8 @@
   
   <sup>*</sup> Equal contribution &nbsp; | &nbsp; <sup>†</sup> Corresponding authors
 </p>
+
+CVPR 2026
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.00327-b31b1b.svg)]([https://arxiv.org/abs/2601.00327](https://arxiv.org/pdf/2511.17282))
 

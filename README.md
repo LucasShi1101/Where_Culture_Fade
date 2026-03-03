@@ -41,4 +41,4 @@
 
 ---
 
-> I'm quite busy due to personal reasons; the code will be available shortly.
+- I'm quite busy due to personal reasons; the code will be coming soon.

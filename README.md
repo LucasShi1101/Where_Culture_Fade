@@ -29,7 +29,7 @@
 
 **CVPR 2026**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2601.00327-b31b1b.svg)]([https://arxiv.org/abs/2601.00327](https://arxiv.org/pdf/2511.17282))
+![![arXiv](https://img.shields.io/badge/arXiv-2601.00327-b31b1b.svg)]([https://arxiv.org/abs/2601.00327](https://arxiv.org/pdf/2511.17282))
 
 ---
 </div>
